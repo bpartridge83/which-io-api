@@ -367,10 +367,10 @@ app.all('*', function (req, res, next) {
 
 });
 
-app.get('/awesome', function (req, res) {
+app.get('/status', function (req, res) {
 	
 	res.send({
-		'running-here' : 'yuppers'
+		'status' : 'running'
 	});
 	
 });
