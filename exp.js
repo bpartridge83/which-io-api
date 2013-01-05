@@ -370,7 +370,7 @@ app.all('*', function (req, res, next) {
 app.get('/awesome', function (req, res) {
 	
 	res.send({
-		'running-here' : 'yup!'
+		'running-here' : 'yessir'
 	});
 	
 });
