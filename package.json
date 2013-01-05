@@ -1,0 +1,21 @@
+{
+  "name": "which.io-api",
+  "subdomain": "which.node",
+  "scripts": {
+    "start": "node exp.js"
+  },
+  "version": "0.0.0-8",
+  "engines": {
+    "node": "0.8.x"
+  },
+  "dependencies": {
+    "express": "3.x",
+    "mongoskin": "0.5.x",
+    "MD5": "1.0.x",
+    "numeral": "1.4.x",
+    "gaussian": "1.0.x",
+    "underscore": "1.4.x",
+    "backbone": "0.9.x",
+    "forever": "0.10.x"
+  }
+}
