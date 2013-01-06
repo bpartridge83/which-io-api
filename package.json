@@ -2,7 +2,7 @@
   "name": "which.io-api",
   "subdomain": "which.node",
   "scripts": {
-    "start": "node exp.js"
+    "start": "node app.js"
   },
   "version": "0.0.2-4",
   "engines": {
